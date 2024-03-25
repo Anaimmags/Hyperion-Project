@@ -1,3 +1,3 @@
-message = "Git is awesome!"
+message = input("Enter your message:")
 
 print(message)
